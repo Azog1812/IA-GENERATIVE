@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Quels sont vos délais de livraison ?",
+        "réponse": "Nos délais de livraison varient entre 3 et 5 jours ouvrés."
+    },
+    {
+        "question": "Quels moyens de paiement acceptez-vous ?",
+        "réponse": "Nous acceptons les cartes bancaires, PayPal et les virements bancaires."
+    },
+    {
+        "question": "Puis-je retourner un produit si je ne suis pas satisfait ?",
+        "réponse": "Oui, vous pouvez retourner les produits sous 30 jours après réception."
+    },
+    {
+        "question": "Proposez-vous un service après-vente ?",
+        "réponse": "Oui, notre service après-vente est disponible du lundi au vendredi de 9h à 18h."
+    },
+    {
+        "question": "Quelle est la garantie de vos produits ?",
+        "réponse": "Tous nos produits bénéficient d'une garantie standard de 2 ans."
+    },
+    {
+        "question": "Faites-vous des livraisons à l'international ?",
+        "réponse": "Oui, nous livrons dans plusieurs pays, veuillez consulter notre liste complète sur notre site."
+    },
+    {
+        "question": "Comment puis-je suivre ma commande ?",
+        "réponse": "Après l'expédition, vous recevrez un email avec un numéro de suivi."
+    },
+    {
+        "question": "Quels sont vos horaires d'ouverture ?",
+        "réponse": "Nous sommes ouverts du lundi au vendredi de 9h à 18h."
+    },
+    {
+        "question": "Puis-je modifier ma commande après validation ?",
+        "réponse": "Vous pouvez modifier votre commande jusqu'à 2 heures après validation."
+    },
+    {
+        "question": "Les prix affichés incluent-ils la TVA ?",
+        "réponse": "Oui, tous les prix affichés sur notre site incluent la TVA."
+    },
+    {
+        "question": "Avez-vous des frais de livraison ?",
+        "réponse": "La livraison est gratuite pour toute commande supérieure à 50€."
+    },
+    {
+        "question": "Vendez-vous des cartes cadeaux ?",
+        "réponse": "Oui, nous proposons des cartes cadeaux allant de 20€ à 200€."
+    },
+    {
+        "question": "Comment utiliser un code promo ?",
+        "réponse": "Vous pouvez entrer votre code promo au moment du paiement dans l'espace prévu à cet effet."
+    },
+    {
+        "question": "Les paiements en ligne sont-ils sécurisés ?",
+        "réponse": "Oui, toutes les transactions sont sécurisées grâce au protocole SSL."
+    },
+    {
+        "question": "Puis-je annuler ma commande avant expédition ?",
+        "réponse": "Oui, vous pouvez annuler votre commande jusqu'à son expédition en nous contactant par mail ou téléphone."
+    },
+    {
+        "question": "Est-il possible de réserver un article en rupture de stock ?",
+        "réponse": "Oui, vous pouvez précommander certains articles en rupture de stock directement sur la fiche produit."
+    },
+    {
+        "question": "Quels transporteurs utilisez-vous pour la livraison ?",
+        "réponse": "Nous travaillons principalement avec La Poste, Chronopost et DHL."
+    },
+    {
+        "question": "Acceptez-vous les chèques comme moyen de paiement ?",
+        "réponse": "Non, malheureusement nous n'acceptons pas les chèques."
+    },
+    {
+        "question": "Puis-je commander par téléphone ?",
+        "réponse": "Oui, vous pouvez passer commande par téléphone en contactant notre service client."
+    },
+    {
+        "question": "Offrez-vous une remise pour les nouveaux clients ?",
+        "réponse": "Oui, les nouveaux clients bénéficient d'une réduction de 10% sur leur première commande."
+    },
+    {
+        "question": "Vos produits sont-ils fabriqués localement ?",
+        "réponse": "Oui, la majorité de nos produits sont fabriqués localement en France."
+    },
+    {
+        "question": "Que faire si mon produit arrive endommagé ?",
+        "réponse": "Contactez immédiatement notre service après-vente avec une photo du produit endommagé pour un remplacement ou remboursement rapide."
+    },
+    {
+        "question": "Combien de temps prend le remboursement d'un retour ?",
+        "réponse": "Le remboursement est effectué sous 5 à 7 jours ouvrés après réception du retour."
+    },
+    {
+        "question": "Puis-je choisir un créneau de livraison ?",
+        "réponse": "Oui, certains transporteurs proposent de choisir un créneau horaire lors de la livraison."
+    },
+    {
+        "question": "Comment puis-je créer un compte client ?",
+        "réponse": "Cliquez sur 'Créer un compte' en haut à droite de notre site et suivez les étapes indiquées."
+    },
+    {
+        "question": "Quels sont vos délais de réponse au support client ?",
+        "réponse": "Notre support client répond généralement sous 24 heures ouvrées."
+    },
+    {
+        "question": "Avez-vous un programme de fidélité ?",
+        "réponse": "Oui, nous proposons un programme de fidélité avec des points cumulables à chaque achat."
+    },
+    {
+        "question": "Quelle est votre politique de confidentialité ?",
+        "réponse": "Notre politique de confidentialité est disponible en bas de page sur notre site internet."
+    },
+    {
+        "question": "Proposez-vous des emballages cadeaux ?",
+        "réponse": "Oui, l'option emballage cadeau est disponible directement dans votre panier."
+    },
+    {
+        "question": "Acceptez-vous les commandes en gros pour les entreprises ?",
+        "réponse": "Oui, pour toute commande en gros, veuillez contacter notre équipe commerciale pour un devis personnalisé."
+    }
+]
